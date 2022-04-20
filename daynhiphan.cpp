@@ -20,5 +20,4 @@ int main(){
 	printf("Nhap n: ");
 	scanf("%d",&n);
 	Try(0);
-	return 0;
 }
